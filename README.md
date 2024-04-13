@@ -7,7 +7,7 @@ https://leetcode.com/tag/array/
 
 https://leetcode.com/problems/number-of-good-pairs/
 
-https://leetcode.com/problems/build-array-from-permutation/solutions/4733004/java-beginner-solution/
+https://leetcode.com/problems/number-of-good-pairs/solutions/4927557/java-easy-using-loops-beats-85/
 
 git remote add origin https://github.com/anumit-web/LeetCode-Arrays-3-Number-of-Good-Pairs.git
 
